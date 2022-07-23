@@ -43,3 +43,8 @@ class _LoginPageState extends State<LoginPage> {
     );
   }
 }
+
+
+
+
+// keytool -list -v -alias androiddebugkey -keystore $env:USERPROFILE%\.android\debug.keystore
